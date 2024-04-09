@@ -16,7 +16,7 @@
     "lint": "eslint 'src/**/*.{js,ts}' --quiet",
     "lint:fix": "eslint 'src/**/*.{js,ts}' --quiet --fix",
     "format": "prettier --write 'src/**/*.{js,ts,json,md}'",
-    "test": "echo \"Warning: no tests available\" && exit 0"
+    "test": "echo \"Warning: no tests available\""
   },
   "keywords": [],
   "author": "BlayTheNinth",
