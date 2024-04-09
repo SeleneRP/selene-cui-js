@@ -1,6 +1,6 @@
 {
   "name": "selene-cui-js",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "JavaScript bindings for Selene CUI",
   "repository": "https://github.com/SeleneRP/selene-cui-js",
   "bugs": "https://github.com/SeleneRP/selene-cui-js/issues",
