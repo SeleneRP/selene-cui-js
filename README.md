@@ -27,3 +27,5 @@ onEvent('myCustomEvent', (data) => {
   console.log('Received custom event:', data);
 });
 ```
+
+For more information on CUI, read the [guide in the Selene Developer documentation](https://dev.selene.world/guides/cui/).
