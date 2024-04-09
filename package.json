@@ -2,7 +2,9 @@
   "name": "selene-cui-js",
   "version": "1.0.0",
   "description": "JavaScript bindings for Selene CUI",
-  "repository": "https://github.com/SeleneRP/selene-cui-js",
+  "repository": {
+    "url": "git+https://github.com/SeleneRP/selene-cui-js.git"
+  },
   "bugs": "https://github.com/SeleneRP/selene-cui-js/issues",
   "homepage": "https://dev.selene.world/",
   "main": "dist/index.js",
